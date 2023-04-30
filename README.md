@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on **Angular test app**
+- 🔭 I’m currently working on **My Calendar App**
 
-- 🌱 I’m currently learning **Angular and ASP.NET Core**
+- 🌱 I’m currently learning **React and ASP.NET Core**
 
 - 📫 How to reach me **mateusz-bielaszewski@o2.pl**
 
