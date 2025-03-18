@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on **Chat app**
+- 🔭 I’m currently working on **2D game**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Unity**
 
 - 📫 How to reach me **mateusz-bielaszewski@o2.pl**
 
